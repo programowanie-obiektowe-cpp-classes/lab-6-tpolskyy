@@ -1,0 +1,3 @@
+D:/STUDIA/C++/zejsciowka/lab-6-tpolskyy/build/CMakeFiles/zal.dir
+D:/STUDIA/C++/zejsciowka/lab-6-tpolskyy/build/CMakeFiles/edit_cache.dir
+D:/STUDIA/C++/zejsciowka/lab-6-tpolskyy/build/CMakeFiles/rebuild_cache.dir

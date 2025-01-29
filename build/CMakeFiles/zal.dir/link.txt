@@ -1,0 +1,3 @@
+D:\MICROSOFT_VISUAL_STUDIO\VS\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -E rm -f CMakeFiles\zal.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\zal.dir/objects.a @CMakeFiles\zal.dir\objects1
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\zal.dir/objects.a -Wl,--no-whole-archive -o zal.exe -Wl,--out-implib,libzal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zal.dir\linkLibs.rsp
